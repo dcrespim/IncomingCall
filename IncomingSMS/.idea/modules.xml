@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IncomingCall.iml" filepath="$PROJECT_DIR$/IncomingCall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IncomingSMS.iml" filepath="$PROJECT_DIR$/IncomingSMS.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/contacts/contacts.iml" filepath="$PROJECT_DIR$/contacts/contacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/receiversms/receiversms.iml" filepath="$PROJECT_DIR$/receiversms/receiversms.iml" />
     </modules>
   </component>
 </project>

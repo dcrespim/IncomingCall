@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IncomingSMS</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_world2">Hello world bottom!</string>
+    <string name="action_settings">Settings</string>
+</resources>
